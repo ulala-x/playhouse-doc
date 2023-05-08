@@ -157,9 +157,6 @@
 <br>
 
 ## API 문서
-   * REST API 명세
-   * WebSocket API 명세
-   * API 사용 예제  
 
 ## 성능 테스트
 
