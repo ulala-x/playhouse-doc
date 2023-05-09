@@ -100,8 +100,8 @@
       ```
 
  * 사용법 및 샘플 게임 서버 실행
-   * [c# 샘플](github.com/ulala-x/playhouse-net-sample/blob/main/README.md)
-   * [Koltin 샘플](github.com/ulala-x/playhouse-kotlin-sample/blob/main/README.md)
+   * [c# 샘플](https://github.com/ulala-x/playhouse-net-sample/blob/main/README.md)
+   * [Koltin 샘플](https://github.com/ulala-x/playhouse-kotlin-sample/blob/main/README.md)
  
 <br>
 
